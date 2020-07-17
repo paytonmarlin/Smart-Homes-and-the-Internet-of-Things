@@ -1,37 +1,89 @@
-## Welcome to GitHub Pages
+  # The IoT and the Smart Home: Written by Payton Marlin
 
-You can use the [editor on GitHub](https://github.com/paytonmarlin/smart-home/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## **Why Talk about Smart-Home and the Internet of Things (IoT)?**
+---
+We have come a long way since the development of the first computational machine created by Alan Turing during WWII. Computers taking up a whole room just to do some simple calculations seems distant now, but that was 80 years ago. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Now, people carry computers the size of a floppy disk in their pockets. These computers have almosst an infinite amount of storage when comparing it to the ancient floppy disk. These devices can access the internet, dounload files, and connect wirelessly to other devices seemlessly. The communication between these devices can be refered to as **The Internet of Things** or **IoT** for short. An area that I am particularly interested about is the Smart Home, where almost everything that has an electric signal can be controlled wirelessly.
 
-### Markdown
+![128 Gb flashdrive -> 128 Mb of floppy disk](https://external-preview.redd.it/nkSE5HS9Iv8UtZcL4HKotfgtZtbO3ZZ1RZu-__7Iru0.jpg?auto=webp&s=51213c19071a7ab80c68a8eb2f35c4bf74a10c98)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+The target audience is anyone who has knowledge about technology and a passion to learn about technology. As someone who invested their time into video-games and technology at a young age, I have always had a passion about the newest technological advancements.  
 
-```markdown
-Syntax highlighted code block
+---
 
-# Header 1
-## Header 2
-### Header 3
+### **An Overview**
 
-- Bulleted
-- List
+Throughout your reading on the Internet of Things and the Smart Home, I hope that you find new and valuable infromation regarding how these devices communicate and why you should invest in the smart homes of tomorrow.
 
-1. Numbered
-2. List
+This page of the website will give a synopsis of what both the Internet of Things is and how they can affect your home. If you want to go more in depth about a certain object, you can go to another page which will have more pictures/diagrams for you to read and learn about.
 
-**Bold** and _Italic_ and `Code` text
+In addition to the two supportive pages, I will also have a bibliography page in case you want to read further along a particular subject. So, there will be four difference pages that you can refer to:
+- The Home page (this page)
+- The Internet of Things
+- The Smart Home
+- Sources
 
-[Link](url) and ![Image](src)
-```
+---
+### **The Internet of Things**
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+Here in the present times, it is becoming more rare to go somewhere that does not have some sort of technology inside. Most restaraunts have televisions and a buzzer to alert the customer when their table is ready. Startup tech companies may have lightbulbs that can be dimmed and turned off with motion or a voice. Grocery stores have robots that checkup on the stock of a certain item. 
 
-### Jekyll Themes
+There is no doubt that we are in a technological era of evolution. As more and more devices become available, there will be more communication between them. According to [Networkworld.com](https://www.networkworld.com/article/3542891/the-internet-of-things-in-2020-more-vital-than-ever.html)
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/paytonmarlin/smart-home/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+![the IoT](https://cdn2.hubspot.net/hubfs/850486/Imported_Blog_Media/icono1-6.jpg)
 
-### Support or Contact
+> ...A crazy variety of some 21 billion connected “things” are at this moment collecting data and performing all sorts of tasks. 
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+These "things" are simply technology. Technolgy devices that are constantly communicating with each other. Just like the example with the robot in grocery stores, it sends information regarding the stock of the current inventory. These "things" can do anything such as...
+
+ - Managing security (locks, cameras, fences)
+ - Start your car
+ - Manage the washer and dryer
+ - Open and close windows/doors
+ - Operate the intensity of lights
+ - Automatically do certain tasks after you wake up
+ - Unlock and start your car before you get in it 
+ - Many, many more...
+
+ As you can see, this is just the tip of the iceberg of what advances and possibilities there are when connecting your devices to the internet and, more importantly, *to each other*. 
+
+ Most of these devices will share a common internet router in the home/office, or can be connected to a central computer. If you want to read more information regarding the benefits and drawbacks of a infrastructure of Internet of Things, go **here**.
+
+ For now, just know that the IoT will create a bond between man and machine. It will make our lives easier, and make monitoring certain events easier with the communication between devices. 
+
+ ---
+ ### **Smart Homes**
+
+![Smart-Home](https://www.swann.com/blog/wp-content/uploads/2018/12/Smart-Home-Technology.jpg)
+
+ After reading the brief overview of the IoT, you might wonder why you may want to read about smart homes.
+
+ >Aren't they the same thing?
+
+ Technically, yes. The IoT is needed in order to make a home 'smart'. The Internet of Things goes hand-in-hand with smart home technology. Without the Internet of Things, a smart home will just be a 'boring' old home. 
+
+ One of the reasons why I want to talk about smart home is the applicability of both the IoT and the reality of today. You may often see movies of a secret spy or superhero that can control their house with their voice.
+
+ > Jarvis, close the balcony windows. 
+
+...
+> Yessir, Mr. Stark
+
+Movies that have this kind of technology may seem like a fantasy, when in fact the technology is already here. In simple terms, a smart home **uses the IoT to communicate with other devices in the house, creating a 'brain' of a living being that can control its body**. Much like Tony Starks 'Jarvis' assistant, we too have many [virtual assistants](https://en.wikipedia.org/wiki/Virtual_assistant) available to us. 
+
+| Virtual Assistant  | Developer | IoT Compatable?  |  
+|:---|:---:|---:|
+| Alexa  | Amazon  | Yes  | 
+| Bixby  | Samsung  | No  |  
+| Cortona  | Microsoft  | Yes  |
+| Google Assistant | Google | Yes |
+| Siri | Apple | No |
+
+This is just some of the many different virtual assistants offered by some of the largest tech companies. Some of them can be integrated into a smart home, signaled by a 'Yes' under 'IoT Compatable'. Some of them, however, can not be that are signaled by a 'no'. If you want to learn more about how to transition your home into a smart home, go **here**.
+
+
+
+
+
+    
