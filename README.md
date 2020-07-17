@@ -1,3 +1,6 @@
+  | [**Sources**](/Sources) |
+
+  
   The IoT and the Smart Home: Written by Payton Marlin
 
 ## **Why Talk about Smart-Home and the Internet of Things (IoT)?**
