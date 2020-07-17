@@ -1,4 +1,4 @@
-  | [**Sources**](/Sources) |
+  | [**Sources**](/Sources.md) |
 
   
   The IoT and the Smart Home: Written by Payton Marlin
