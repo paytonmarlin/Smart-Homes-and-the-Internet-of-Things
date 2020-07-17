@@ -31,7 +31,7 @@ Here in the present times, it is becoming more rare to go somewhere that does no
 
 There is no doubt that we are in a technological era of evolution. As more and more devices become available, there will be more communication between them. According to [Networkworld.com](https://www.networkworld.com/article/3542891/the-internet-of-things-in-2020-more-vital-than-ever.html)
 
-![the IoT](https://cdn2.hubspot.net/hubfs/850486/Imported_Blog_Media/icono1-6.jpg)
+![the IoT](Pictures/IoT.jpg)
 
 > ...A crazy variety of some 21 billion connected “things” are at this moment collecting data and performing all sorts of tasks. 
 
@@ -55,7 +55,7 @@ These "things" are simply technology. Technolgy devices that are constantly comm
  ---
  ### **Smart Homes**
 
-![Smart-Home](https://www.swann.com/blog/wp-content/uploads/2018/12/Smart-Home-Technology.jpg)
+![Smart-Home](Pictures/Home.jpg)
 
  After reading the brief overview of the IoT, you might wonder why you may want to read about smart homes.
 
