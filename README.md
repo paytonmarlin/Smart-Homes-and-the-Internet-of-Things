@@ -6,7 +6,7 @@ We have come a long way since the development of the first computational machine
 
 Now, people carry computers the size of a floppy disk in their pockets. These computers have almosst an infinite amount of storage when comparing it to the ancient floppy disk. These devices can access the internet, dounload files, and connect wirelessly to other devices seemlessly. The communication between these devices can be refered to as **The Internet of Things** or **IoT** for short. An area that I am particularly interested about is the Smart Home, where almost everything that has an electric signal can be controlled wirelessly.
 
-![128 Gb flashdrive -> 128 Mb of floppy disk](https://external-preview.redd.it/nkSE5HS9Iv8UtZcL4HKotfgtZtbO3ZZ1RZu-__7Iru0.jpg?auto=webp&s=51213c19071a7ab80c68a8eb2f35c4bf74a10c98)
+![128 Gb flashdrive -> 128 Mb of floppy disk](Pictures/Floppy.jpg)
 
 The target audience is anyone who has knowledge about technology and a passion to learn about technology. As someone who invested their time into video-games and technology at a young age, I have always had a passion about the newest technological advancements.  
 
