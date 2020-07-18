@@ -12,7 +12,7 @@ Take a smart watch, for example. We have technology that can be worn on your wri
 
 Take an example from the University of Texas,
 
-![Coke Machine](https://i.ebayimg.com/images/g/9YkAAOSwSRJcqD83/s-l300.jpg  )
+![Coke Machine](Pictures/Coke.jpg)
 
 >### The first “Internet appliance" was a Coke machine at Pittsburgh's Carnegie Mellon University in 1982. Programmers could check sensors to see how many drinks were present in the machine and if they were cold.
 
@@ -39,7 +39,7 @@ These 'sensors' are the very foundation of the Internet of Things. Sensors can t
 
 Thsese are just a few of the infinite possibilities that we have when allowing technology devices to communicate. I hope that these examples help illustrate what the Internet of Things can do just when you have a couple devices. All of this will lead up to a Smart Home, which will be the future of the modern homes.
 
-![Tech Graph](https://ourworldindata.org/grapher/exports/technology-adoption-by-households-in-the-united-states.svg)
+![Tech Graph](Pictures/Graph.png)
 
 As more and more technology devices come into the world, there is no doubt theat there will be limitless possibilities. 
 
