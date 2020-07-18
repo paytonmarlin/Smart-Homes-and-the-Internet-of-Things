@@ -1,3 +1,5 @@
+ | [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
+
 ## The Internet of Things
 
 As you have read in the main page, you now know that the Internet of Things (or IoT for short) is a term used to connect a multitude of devices to each other. This page will go a little bit more in depth about why the IoT is the future of technological communication between technology, and why you should keep your eyes peeled for advancements as they come out.
@@ -69,3 +71,4 @@ The different virtual assitants that you see above can all (except Bixby) be pro
 
  All you need to do is go to the corresponding app and connect the devices. There are all walkthroughs and FAQs for any smart device that you want to program. If you want to learn more, head over to the **Smart Home** page.
 
+ | [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
