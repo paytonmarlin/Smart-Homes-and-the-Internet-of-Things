@@ -1,3 +1,5 @@
+ | [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
+
 ## The Smart Home
 
 You may have already have spoken to your phone via Siri®, Google®, Bixby®, or many other assitants and have allowed them to do something such as add an event in the calendar. This page will be short, but will show you some of the ways you can use your assistant to do many more things outside your phone. Of course, this will utilize the Internet of Things that you have already read. 
@@ -34,3 +36,5 @@ There are a plethora of options to be able to configure your home into the 'smar
 > ## The future of technology is apps
 
 Keep this in mind as you progress through the era of technology. I hope that this website has helped you understand the IoT and the Smart-Home.
+
+ | [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
