@@ -13,13 +13,13 @@ This is the basic concept of how *MOST* smart things will use. You will need to 
 
 ---
 
-![Smart Lighting](https://media0.giphy.com/media/hluswkP4v8WSk/200w.webp?cid=ecf05e47lssv7eb8f1sxn4wjri6w9lrlg2dmm0nrc4ok71zj&rid=200w.webp)
+![Smart Lighting](Pictures/Lights.webp)
 
 If you would like to make your home more modern by adding smart lighting, you can buy smart lighting bulbs from any retailer (Amazon, Walmart, Target). Like before, you will be able to control the lights from an app on your phone. Additionally, you will have the ability to connect select bulbs to your assistant's app if you would like to control with your voice. 
 
 ---
 
-![Total Smarts](https://media0.giphy.com/media/jsqbq7Qd7i1ochcVef/200w.webp?cid=ecf05e47rf392y6c11cz775cq9grtkprm87sm3z1sbb87n4v&rid=200w.webp)
+![Total Smarts](Pictures/Options.webp)
 
 Along with smart speakers and smart lightning, there is also the ability to make your security smart. Apps like ADT Pulse allows the user to control the cameras, alarms, and the ability to monitor their house. There are also smart options to control your thermostat, garage, locks, and many more exterior paths. 
 
@@ -27,7 +27,7 @@ Although you may have to research and find someone to install a smart kit with y
 
 ---
 
-![Options](https://media0.giphy.com/media/J4yNWuvc2afezrAnQ2/200w.webp?cid=ecf05e47j99w7r8mrd53d2xyupwa3jwnsmju62uq9js19hs6&rid=200w.webp)
+![Options](Pictures/TV.webp)
 
 There are a plethora of options to be able to configure your home into the 'smart home'. I hope that this page gave you a good read about how the smart home is controlled by the IoT and, most importantly, by apps.
 
