@@ -1,4 +1,4 @@
- | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
+ | [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
 
   
   The IoT and the Smart Home: Written by Payton Marlin
