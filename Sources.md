@@ -1,3 +1,5 @@
+| [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
+
 ## Smart Home
 
 [Smart Home Concept Research Paper](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.392.3847&rep=rep1&type=pdf "Smart Home Research Paper")
@@ -48,5 +50,5 @@
 [Markdown Cheat Sheet](https://www.markdownguide.org/cheat-sheet/)
 
 
-
+| [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
     
