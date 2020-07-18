@@ -85,7 +85,7 @@ Movies that have this kind of technology may seem like a fantasy, when in fact t
 
 This is just some of the many different virtual assistants offered by some of the largest tech companies. Some of them can be integrated into a smart home, signaled by a 'Yes' under 'IoT Compatable'. Some of them, however, can not be that are signaled by a 'no'. If you want to learn more about how to transition your home into a smart home, go **here**.
 
-
+ | [**Smart Home**](/Smart.md) | [**Internet of Things**](/IoT.md) | [**Sources**](/Sources.md) |
 
 
 
