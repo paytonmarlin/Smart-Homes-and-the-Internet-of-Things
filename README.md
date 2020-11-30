@@ -17,7 +17,7 @@ The target audience is anyone who has knowledge about technology and a passion t
 
 ### **An Overview**
 
-Throughout your reading on the Internet of Things and the Smart Home, I hope that you find new and valuable infromation regarding how these devices communicate and why you should invest in the smart homes of tomorrow.
+Throughout your reading on the Internet of Things and the Smart Home, I hope that you find new and valuable information regarding how these devices communicate and why you should invest in the smart homes of tomorrow.
 
 This page of the website will give a synopsis of what both the Internet of Things is and how they can affect your home. If you want to go more in depth about a certain object, you can go to another page which will have more pictures/diagrams for you to read and learn about.
 
